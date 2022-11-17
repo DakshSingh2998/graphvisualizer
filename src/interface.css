@@ -1,0 +1,31 @@
+#board {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#board {
+    border-collapse: collapse;
+}
+
+*{
+    box-sizing: border-box;
+    font-weight: bold;
+    font-size:large;
+}
+td{
+    width:4vw;
+    height:4vh;
+    border:1px solid #5A5A5A;
+    background-color:#D3D3D3;
+    
+}
+#base{
+    text-align: center;
+    background-color: #CBC3E3;
+}
+body{
+    background-color: #CBC3E3;
+}
+.bottom{
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
